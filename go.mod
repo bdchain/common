@@ -1,4 +1,4 @@
-module gitlab.forceup.in/dev-proto/common
+module github.com/bdchain/common
 
 go 1.12
 
